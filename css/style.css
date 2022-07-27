@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+.main {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+img {
+    border-radius: 70%;
+}
+
+.btn {
+    line-height: 50px;
+    width: 300px;
+}
